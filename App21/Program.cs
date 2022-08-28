@@ -53,7 +53,6 @@ namespace App21
                 }
             }
         }
-
         private static void sad2()
         {
             for (int i = m - 1; i > 0; i--)
